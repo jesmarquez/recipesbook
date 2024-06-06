@@ -14,7 +14,7 @@ export class RecipeListComponent {
       'Recipe ABC', 'Healthy and fat', 'https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/2023-08/verduracruda.jpg.webp?itok=3DECGN7j'),
       
     new Recipe(
-      'Recipe ZXX', 'Healthy and fat', 'https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/2023-08/verduracruda.jpg.webp?itok=3DECGN7j'),
+      'Recipe ZXX', 'Fatest and Bad', 'https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/2023-08/verduracruda.jpg.webp?itok=3DECGN7j'),
 
   ];
 
